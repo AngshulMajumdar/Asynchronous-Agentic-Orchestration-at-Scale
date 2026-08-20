@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "Asynchronous Agentic Orchestration at Scale"
+message: "If you use this repository, please cite the accompanying manuscript."
+type: software
+authors:
+  - family-names: Majumdar
+    given-names: Angshul
+version: 0.1.0
+date-released: 2026-08-20
